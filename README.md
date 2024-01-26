@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I'm [Your Name]. I love coding and creating awesome things.
+Hello, I'm Gautam. I love coding and creating awesome things in the domain of Machine Learning, Deep Learning, and Image Processing.
 
 ## Projects
 
