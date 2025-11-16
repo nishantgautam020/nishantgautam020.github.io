@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I'm Gautam. I love coding and creating awesome things in the domain of Machine Learning, Deep Learning, and Image Processing.
+Hello, I'm Nishant Gautam, this is my webpage.
 
 ## Projects
 
