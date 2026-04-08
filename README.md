@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nishant Gautam</h1>
-<h3 align="center">AI Researcher | Computer Vision | Deep Learning | Neuromorphic Computing</h3>
+<h1 align="center">Hi, I'm Nishant Gautam</h1>
+<h3 align="center">AI Researcher | Computer Vision | Deep Learning | Data Analysis and Engineering</h3>
 
 <p align="center">
   <a href="https://github.com/nishantgautam020">
@@ -14,14 +14,14 @@
 
 ## 🚀 About Me
 
-🔬 AI Researcher at **University of Galway (C3I Centre)**  
-🧠 Passionate about **Computer Vision, Multimodal AI & Neuromorphic Systems**  
-⚡ Building intelligent systems across **Research + Industry + Real-world deployment**
+🔬 AI Researcher at University of Galway (C3I Centre).
+🧠 Passionate about Computer Vision, Multimodal AI & Image Processing.
+⚡ Building intelligent systems across "Research + Industry + Real-world deployment".
 
-- 🧩 Working on Vision-Language Models & Edge AI  
-- 🫀 AI for Cardiovascular Imaging & Medical Data  
-- 🤖 Reinforcement Learning for decision optimization  
-- 🧬 Exploring Neuromorphic Computing & Spiking Neural Networks  
+- 🧩 Working on Vision-Language Models & Edge AI.
+- 🫀 AI for Cardiovascular Imaging & Medical Data.  
+- 🤖 Reinforcement Learning for decision optimization.  
+- 🧬 Exploring Neuromorphic Computing & Spiking Neural Networks.
 
 ---
 
@@ -87,7 +87,7 @@
 
 ## ⚡ Personal Edge
 
-🏀 Former Basketball Captain  
+🏀 Former Basketball Captain 
 🧠 Strong blend of **Research + Engineering + Applied AI**  
 🌍 Experience across UK, Ireland & global collaborations  
 
